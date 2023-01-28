@@ -16,3 +16,12 @@
 .main-section.-bdFirst {
     border-color: #62C370;
 }
+
+.main-section.-bgSecond {
+    background-color: #7C5E99;
+    padding-bottom: 60px;
+}
+
+.main-section.-bdBlack {
+    border-color: #000;
+}
