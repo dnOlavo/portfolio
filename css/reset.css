@@ -2,8 +2,9 @@ body {
 	font-family: "Fira Code", sans-serif;
 }
 
-body, h1, h2, h3 {
+body, h1, h2, h3, figure, input {
 	margin: 0;
+	padding: 0;
 }
 
 button {
