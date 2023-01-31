@@ -25,6 +25,12 @@
     .main-header .main-action {
         display: flex;
     }
+
+    .main-header .icon-close {
+        position: absolute;
+        top: 16px;
+        right: 16px;
+    }
 }
 
 @media (min-width: 981px) {
